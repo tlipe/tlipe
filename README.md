@@ -14,8 +14,6 @@
 > Status: Active development
 ```
 
----
-
 ## Metrics
 
 <p align="center">
