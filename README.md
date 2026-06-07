@@ -38,7 +38,7 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=lua,js,ts,python,rust,c" />
+  <img src="https://skillicons.dev/icons?i=lua,js,ts,html,css,python,rust,c" />
 </p>
 
 ### Tools
