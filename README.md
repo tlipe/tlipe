@@ -33,11 +33,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tlipe&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tlipe&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tlipe&theme=tokyonight&utcOffset=-3" />
-</p>
-
 ---
 
 ## Tech Stack
