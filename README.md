@@ -23,12 +23,25 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tlipe&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tlipe&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tlipe&theme=tokyonight" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tlipe&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tlipe&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tlipe&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tlipe&theme=tokyonight" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tlipe&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tlipe&theme=tokyonight" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tlipe&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -45,14 +58,6 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,nodejs,docker,tauri,electron,vite,react,vue,sqlite" />
-</p>
-
----
-
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tlipe&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
