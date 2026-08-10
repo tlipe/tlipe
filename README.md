@@ -1,7 +1,7 @@
 <h1 align="center">_Kolt</h1>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=tlipe&theme=dark&style=aura" alt="Animated Hero" />
+  <img src="https://www.gitskins.com/api/section/hero?username=tlipe&theme=neon&style=aura" alt="Animated Hero" />
 </p>
 
 ---
