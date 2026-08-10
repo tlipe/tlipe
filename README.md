@@ -1,7 +1,7 @@
 <h1 align="center">_Kolt</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Advanced+Developer;Performance+Focused;Clean+Architecture;Systems+Design;Advanced+Programmer" />
+  <img src="https://www.gitskins.com/api/section/hero?username=tlipe&theme=dark&style=aura" alt="Animated Hero" />
 </p>
 
 ---
