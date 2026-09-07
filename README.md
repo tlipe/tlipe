@@ -5,6 +5,12 @@
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=tlipe&theme=neon&style=aura" alt="Animated Hero" />
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=tlipe&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=tlipe&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e" alt="tlipe hero section" />
+  </picture>
+</p>
 
 ---
 
@@ -47,14 +53,6 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,nodejs,docker,tauri,electron,vite,react,vue,sqlite" />
-</p>
-
----
-
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tlipe&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
