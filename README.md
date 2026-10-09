@@ -25,18 +25,17 @@
 ## Metrics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tlipe&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/tlipe?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/tlipe?affiliations=OWNER&style=for-the-badge" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tlipe&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tlipe&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tlipe&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tlipe&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tlipe&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tlipe&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tlipe&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tlipe&theme=github_dark&utcOffset=-3" />
 </p>
 
 ---
