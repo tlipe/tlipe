@@ -58,12 +58,22 @@
 
 ## Principles
 
-```txt
-- Clean code > clever code
-- Explicit > implicit
-- Performance is mandatory
-- Fail safe systems
-- Minimalism with clarity
+```md
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### ⟡ ENGINEERING PRINCIPLES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+> ◈ Clean Code > Clever Code
+>
+> ◈ Explicit > Implicit
+>
+> ◈ Performance by Design
+>
+> ◈ Fail-Safe by Default
+>
+> ◈ Minimalism with Clarity
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
