@@ -3,9 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=tlipe&theme=neon&style=aura" alt="Animated Hero" />
-</p>
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=tlipe&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e&mode=light" />
     <img src="https://www.gitskins.com/api/section/hero?username=tlipe&theme=neon&style=terminal&nw=ISgQ6lDVTIIGxo5e" alt="tlipe hero section" />
