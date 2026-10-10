@@ -13,10 +13,11 @@
 
 ## Overview
 
-```txt
-> Focus: Performance, scalability, clean architecture
-> Stack: Systems + scripting + backend *FULLSTACK*
-> Status: Active development
+```md
+PERFORMANCE  /  SCALABILITY  /  ARCHITECTURE
+
+⌘  Systems Engineering · Scripting · Backend · Fullstack
+◈  Status: `Actively Building`
 ```
 
 ## Metrics
